@@ -1,0 +1,306 @@
+1, Impacting Hospital Stay: , ago and bloating after eating. 
+1, Social Hx: , 
+1, Patient ID: , NARH-36640 
+1, Discharge: , some activity restrictions suggested, full course of antibiotics, check back with physican in case of relapse, strict diet 
+1, Meds: , Motrin once/week. Tums previously. 
+1, Discharge Date: , 08-Sep-2020 
+1, Gender: , Male 
+1, Summary: , 
+1, Admit Date: , 07-Sep-2020 
+1, Attending Physician: , Mateo Jackson, PhD 
+1, ROS: , Negative except for above findings 
+1, Patient Name: , John Doe 
+1, Discharge Disposition: , Home with Support Services 
+1, PMHx: , Back pain and muscle spasms. No Hx of surgery. NKDA. 
+1, Fax: , (888)-(999)-(1111) 
+1, Ph: , (888)-(999)-(0000) 
+1, FHx: , Uncle has a bleeding ulcer. Smokes since 15 yo, 1/2-1 PPD. No recent EtOH use. Denies illicit drug use. Works on high elevation construction. Fast food diet. Exercises 3-4 times/week but stopped 2 weeks ago. 
+1, Excellence in Healthcare since , 1950 
+, Extracted Text, Not-A
+578 Michael Island,
+New Thomas, NC 34644
+Real Hospital
+Of Washington
+Ph: (888)-(999)-(0000)
+Excellence in Healthcare since 1950
+Fax: (888)-(999)-(1111)
+Patient Discharge Summary
+Not-A Real Hospital, Department of Family Medicine
+Patient
+Patient Name:
+John Doe
+Patient ID:
+NARH-36640
+Gender:
+Male
+Visit
+Attending Physician:
+Mateo Jackson, PhD
+Admit Date:
+07-Sep-2020
+Discharge Date:
+08-Sep-2020
+Discharge Disposition:
+Home with Support Services
+Diagnosis
+35 yo M c/o stomach problems since 2 montsh ago.
+Patient reports epigastric abdominal pain non-
+radiating. Pain is described as gnawing and burning,
+intermitent lasting 1-2 hours and gotten progressively
+worse. Antacids used to alleviate pain but not anymore;
+nothing exhacerbates pain. Pain unrelated to daytime or
+to meals. Patient denies constipation or diarrhea.
+Patient denies blood in stool but have noticed them
+Pre-existing / Developed Conditions
+darker. Patient also reports nausea. Denies recent
+illness or fever. He also reports fatigue since 2 weeks
+Impacting Hospital Stay:
+ago and bloating after eating.
+ROS: Negative except for above findings
+Meds: Motrin once/week. Tums previously.
+PMHx: Back pain and muscle spasms. No Hx of surgery.
+NKDA.
+FHx: Uncle has a bleeding ulcer.
+Social Hx: Smokes since 15 yo, 1/2-1 PPD. No recent
+EtOH use. Denies illicit drug use. Works on high
+elevation construction. Fast food diet. Exercises 3-4
+times/week but stopped 2 weeks ago.
+Discharge:
+some activity restrictions suggested, full course of
+Summary:
+antibiotics, check back with physican in case of
+relapse, strict diet
+Not-A
+578
+Michael
+Island,
+New
+Thomas,
+NC
+34644
+Real
+Hospital
+Of
+Washington
+Ph:
+(888)-(999)-(0000)
+Excellence
+in
+Healthcare
+since
+1950
+Fax:
+(888)-(999)-(1111)
+Patient
+Discharge
+Summary
+Not-A
+Real
+Hospital,
+Department
+of
+Family
+Medicine
+Patient
+Patient
+Name:
+John
+Doe
+Patient
+ID:
+NARH-36640
+Gender:
+Male
+Visit
+Attending
+Physician:
+Mateo
+Jackson,
+PhD
+Admit
+Date:
+07-Sep-2020
+Discharge
+Date:
+08-Sep-2020
+Discharge
+Disposition:
+Home
+with
+Support
+Services
+Diagnosis
+35
+yo
+M
+c/o
+stomach
+problems
+since
+2
+montsh
+ago.
+Patient
+reports
+epigastric
+abdominal
+pain
+non-
+radiating.
+Pain
+is
+described
+as
+gnawing
+and
+burning,
+intermitent
+lasting
+1-2
+hours
+and
+gotten
+progressively
+worse.
+Antacids
+used
+to
+alleviate
+pain
+but
+not
+anymore;
+nothing
+exhacerbates
+pain.
+Pain
+unrelated
+to
+daytime
+or
+to
+meals.
+Patient
+denies
+constipation
+or
+diarrhea.
+Patient
+denies
+blood
+in
+stool
+but
+have
+noticed
+them
+Pre-existing
+/
+Developed
+Conditions
+darker.
+Patient
+also
+reports
+nausea.
+Denies
+recent
+illness
+or
+fever.
+He
+also
+reports
+fatigue
+since
+2
+weeks
+Impacting
+Hospital
+Stay:
+ago
+and
+bloating
+after
+eating.
+ROS:
+Negative
+except
+for
+above
+findings
+Meds:
+Motrin
+once/week.
+Tums
+previously.
+PMHx:
+Back
+pain
+and
+muscle
+spasms.
+No
+Hx
+of
+surgery.
+NKDA.
+FHx:
+Uncle
+has
+a
+bleeding
+ulcer.
+Social
+Hx:
+Smokes
+since
+15
+yo,
+1/2-1
+PPD.
+No
+recent
+EtOH
+use.
+Denies
+illicit
+drug
+use.
+Works
+on
+high
+elevation
+construction.
+Fast
+food
+diet.
+Exercises
+3-4
+times/week
+but
+stopped
+2
+weeks
+ago.
+Discharge:
+some
+activity
+restrictions
+suggested,
+full
+course
+of
+Summary:
+antibiotics,
+check
+back
+with
+physican
+in
+case
+of
+relapse,
+strict
+diet
+
